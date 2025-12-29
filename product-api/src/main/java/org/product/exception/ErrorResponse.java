@@ -3,6 +3,11 @@ package org.product.exception;
 import java.time.LocalDateTime;
 import java.util.Map;
 
+/*
+ * @author Isha Sethia
+ * */
+
+
 public class ErrorResponse {
 
     private final LocalDateTime timestamp;
