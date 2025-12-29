@@ -11,7 +11,7 @@ This project was developed as part of a technical assignment to showcase real-wo
 
 ## Tech Stack
 
-* Java 17
+* Java 21
 * Spring Boot
 * Spring Web
 * Spring Data JPA
