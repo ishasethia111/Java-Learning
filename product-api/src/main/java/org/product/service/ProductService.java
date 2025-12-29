@@ -4,6 +4,11 @@ import org.product.model.Product;
 
 import java.util.List;
 
+/*
+ * @author Isha Sethia
+ * */
+
+
 public interface ProductService {
 
     List<Product> getAllProducts();

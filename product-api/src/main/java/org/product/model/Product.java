@@ -6,6 +6,11 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 import jakarta.validation.constraints.Size;
 
+/*
+ * @author Isha Sethia
+ * */
+
+
 @Entity
 @Table(name = "products")
 public class Product {

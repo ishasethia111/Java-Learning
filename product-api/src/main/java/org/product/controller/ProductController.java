@@ -3,13 +3,16 @@ package org.product.controller;
 import jakarta.validation.Valid;
 import org.product.model.Product;
 import org.product.service.ProductService;
-import org.product.service.impl.ProductServiceImpl;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.List;
+
+/*
+ * @author Isha Sethia
+ * */
 
 @RestController
 @RequestMapping("/products")

@@ -12,6 +12,10 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
+/*
+ * @author Isha Sethia
+ * */
+
 @Configuration
 public class SecurityConfig {
 
